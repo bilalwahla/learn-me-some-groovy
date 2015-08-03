@@ -1,0 +1,1 @@
+class BookGroovyBean {  private String title}
