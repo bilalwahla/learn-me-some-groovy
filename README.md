@@ -12,7 +12,7 @@ Following scripts were written while trying and tweaking examples given in the b
 
 # Roman Numerals Script
 
-There is another script 'RomanNumerals.groovy' that was done as an exercise to show off what I learnt from the first 7 chapters of the 'Groovy in Action' book.
+There is another script apart from the ones mentioned above i.e. 'RomanNumerals.groovy'. This was done as an exercise to show off what I learnt from the first 7 chapters of the 'Groovy in Action' book.
 
 # Running The Scripts
 
