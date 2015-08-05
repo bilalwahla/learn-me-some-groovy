@@ -8,7 +8,7 @@ Scripts written while trying and tweaking examples given in the book 'Groovy in 
   - Closures
   - Control structures
 
-# Exercises
+## Exercises
 
 There are more scripts under 'exercises' that were done to show off the progress in learning.
 
