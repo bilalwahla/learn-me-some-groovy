@@ -1,6 +1,3 @@
-// GString
-println "Book $groovyBean.title"
-
 // Language level support for regular expressions
 assert '123456789' =~ /\d+/
 assert 'nnn' == '123'.replaceAll(/\d/,'n')
@@ -47,8 +44,3 @@ def partyPeople = 10
 }
 println "Number of clinks heard in a party of $partyPeople people: $totalClinks"
 assert totalClinks == (partyPeople * (partyPeople-1)) / 2
-
-String getTitleBackwards(book) {
-  title = book.getTitle()
-  return title.reverse()
-}
