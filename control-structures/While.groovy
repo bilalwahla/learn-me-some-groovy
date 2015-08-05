@@ -1,0 +1,1 @@
+// Looping// Whiledef list = [1,2,3]// NOTE the condition here. It means while list isn't emptywhile (list) {  list.remove(0)}assert list == []while (list.size() < 3) list << list.size() + 1assert list == [1,2,3]

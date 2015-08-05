@@ -1,22 +1,22 @@
 # Learn Me Some Groovy
 
-Following scripts were written while trying and tweaking examples given in the book 'Groovy in Action' and are not exact representations of the examples in the book.
+Scripts written while trying and tweaking examples given in the book 'Groovy in Action' and are not alwyas exact representations of the examples in the book. Areas covered so far:
 
-  - Book.groovy
-  - BookGroovyBean.groovy
-  - MyFirstGroovyScript.groovy
-  - SimpleGroovyDataTypes.groovy
-  - CollectiveGroovyDataTypes.groovy
-  - WorkingWithClosures.groovy
-  - ControlStructures.groovy
+  - Basics of the language to get you going (finding your groove)
+  - Simple data types
+  - Collections
+  - Closures
+  - Control structures
 
-# Roman Numerals Script
+# Exercises
 
-There is another script that was done as an exercise to show off what I learnt from the first 7 chapters of the 'Groovy in Action' book.
+There are more scripts under 'exercises' that were done to show off the progress in learning.
+
+- Basics of the language to get you going (finding your groove)
 
 # Running The Scripts
 
-Running the scripts including Roman Numerals exercise is simple. Just run the script you wish to using the groovy command e.g.
+Running the scripts including exercises is simple. Being in the respective directory, just run the script you wish to using the groovy command e.g.
 
 ```sh
 $ groovy RomanNumerals

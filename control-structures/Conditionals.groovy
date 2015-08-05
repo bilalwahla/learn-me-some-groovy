@@ -1,0 +1,1 @@
+// Be careful with assign and test a conditiondef x = 1/* Even though this will throw a compile error.Not allowed as a top- level expression in an 'if' testif(x = 2) {  println x}*/// This will print. Should really be == rather than =while(x = 1){  println x  break}
