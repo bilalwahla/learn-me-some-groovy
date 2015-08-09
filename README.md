@@ -7,16 +7,17 @@ Scripts written while trying and tweaking examples given in the book 'Groovy in 
   - Collections
   - Closures
   - Control structures
+  - Object orientation
 
 ## Exercises
 
-There are more scripts under 'exercises' that were done to show off the progress in learning.
+There are more scripts under 'exercises' that were done to show the progress made:
 
 - Roman Numerals
 
 ## Running The Scripts
 
-Running the scripts including exercises is simple. Being in the respective directory, just run the script you wish to using the groovy command e.g.
+Running the scripts including exercises is simple. Being in the respective directory, just run the script you wish to, using the groovy command e.g.:
 
 ```sh
 $ groovy RomanNumerals
