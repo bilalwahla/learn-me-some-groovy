@@ -8,6 +8,7 @@ Scripts written while trying and tweaking examples given in the book 'Groovy in 
   - Closures
   - Control structures
   - Object orientation
+  - Unit testing
 
 ## Exercises
 

@@ -1,0 +1,1 @@
+import junit.framework.*static Test suite() {  // To add CalculatorTest  def suite = AllTestSuite.suite(".", "*Test.groovy")  def gsuite = new GroovyTestSuite()  // To add HashMapAndTableTest  suite.addTestSuite(gsuite.compile("./java/HashMapAndTableTest.groovy"))  return suite}junit.textui.TestRunner.run(suite())

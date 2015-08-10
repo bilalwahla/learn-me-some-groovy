@@ -1,0 +1,1 @@
+class Calculator {  def countHowManyBiggerThan(items, target) {    return items.grep{ it > target }.size()  }}
