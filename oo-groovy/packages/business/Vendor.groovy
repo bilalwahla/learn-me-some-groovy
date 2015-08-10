@@ -1,0 +1,1 @@
+package businessclass Vendor {  public String name  public String product  public Address address}

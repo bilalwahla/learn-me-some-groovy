@@ -1,0 +1,1 @@
+package businessclass Address  {  public String street, town, county, postcode  def printTown() {    println "Town: $county"  }}
